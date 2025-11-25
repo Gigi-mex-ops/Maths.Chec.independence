@@ -1,9 +1,9 @@
 #Name:Gladis Bardales
-#Date: November 11,11,2025
+#Date: November 13,11,2025
 #today i make a calendary using variables in python, whit important days of the calenday
 
-import random 
 
+import random
 
 january ={"1":"new year's day",
 
@@ -118,28 +118,28 @@ december = {"1": "World AIDS Day",
 
 "31": "New Year's Eve"}
 
-print("important day of january:",january)
+print((random.choices),"important day of january:",january)
 
-print("important day of febrary", february)
+print((random.choise),"important day of febrary", february)
 
-print("important day of march", march)
+print((random.choise),"important day of march", march)
 
-print("important day of april", april)
+print((random.choise),"important day of april", april)
 
-print("important day of may", may)
+print((random.choise),"important day of may", may)
 
-print("important day of june", june)
+print((random.choise),"important day of june", june)
 
-print("important day of july", july)
+print((random.choise),"important day of july", july)
 
-print("important day of agust", agust)
+print((random.choise),"important day of agust", agust)
 
-print("important day of september", september)
+print((random.choise),"important day of september", september)
 
-print("important day of october", october)
+print((random.choise),"important day of october", october)
 
-print("important day of nomvember", nomvember)
+print((random.choise),"important day of nomvember", nomvember)
 
-print("important day of december", december)
+print((random.choise),"important day of december", december)
 
 #I hope you like my calendary whit important days of the year
